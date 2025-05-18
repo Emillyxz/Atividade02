@@ -7,4 +7,4 @@
 - CSS: Básico
 - JavaScript: Básico  
 - React: Básico  
-- Git: IBásico
+- Git: Básico
